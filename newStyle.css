@@ -1,0 +1,50 @@
+.titleRow{
+    width: 100%;
+    border-bottom: #cccc solid 0.5rem;
+    background-color:#ffffff
+}
+.title{
+    background-color: #4aaaa5;
+    color:#ffffff;
+}
+.footer{
+
+    position: fixed;
+    width: 100%;
+    bottom: 0em;
+    background-color: grey;
+    border-top: 0.5rem solid #4aaaa5;
+   
+}
+body{
+    background-image: url("assets/images/email-pattern.png");
+}
+.mainContainer{
+    padding: 2rem;
+   background-color: #ffffff;
+   
+   margin-top: 3rem;  
+ 
+}
+
+.about{
+    color:#4aaaa5
+}
+
+.img{
+    float: left;
+}
+
+.form{
+    width: 80%;
+}
+
+.submit{
+    background-color:#4aaaa5;
+    color: #ffffff;
+}
+
+.proIma{
+    padding: 2rem;
+    float: left;
+}
