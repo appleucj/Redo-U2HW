@@ -28,7 +28,9 @@ body{
 }
 
 .about{
-    color:#4aaaa5
+    color:#4aaaa5;
+    margin-left: 3rem;
+    
 }
 
 .img{
@@ -48,3 +50,4 @@ body{
     padding: 2rem;
     float: left;
 }
+
